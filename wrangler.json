@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "monitoringsiaran-app",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1ed78b7d-14d1-44c2-b965-ba4d55ef9d58",
+      "database_name": "monitoring_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
